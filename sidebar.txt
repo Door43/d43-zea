@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zea:home|Door43 (zea)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zea|d43-zea repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zea/archive/master.zip|d43-zea.zip]]
+
+**Recent Changes**
+{{changes>ns = zea}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zea|Ethnologue data]]
+
